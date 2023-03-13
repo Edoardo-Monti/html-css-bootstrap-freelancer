@@ -22,9 +22,9 @@ header .img-fluid{
     width: 50%;
 }
 
-header section h1, i, span {
+/* header section h1, i, span {
     color: white;
-}
+} */
 
 .background-c-green{
    background-color: rgb(26 188 156);
@@ -35,4 +35,11 @@ header section h1, i, span {
     /* width: 5rem; */
     border-radius: 5px;
 }
+
+.bg-black{
+    height: 0.3rem;
+    /* width: 5rem; */
+    border-radius: 5px;
+}
+
 
