@@ -36,3 +36,17 @@ header .img-fluid{
     border-bottom: 1px solid grey;
 }
 
+.background-c-darkblue{
+    background-color: rgb(59 84 109);
+}
+
+.rounded-circle{
+    width: 50px;
+    aspect-ratio: 1;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    vertical-align: middle;
+}
