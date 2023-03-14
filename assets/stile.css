@@ -28,4 +28,11 @@ header .img-fluid{
     border-radius: 5px;
 }
 
+.form-control-lg{
+    border-radius: 1%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid grey;
+}
 
