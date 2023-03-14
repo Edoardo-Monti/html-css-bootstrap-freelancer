@@ -2,14 +2,6 @@
     background-color: rgb(44, 63, 80) !important;
 }
 
-/* .navbar .container-fluid{
-    width: 80%;
-} */
-
-/* .navbar a{
-    color: white;
-} */
-
 .navbar button{
     border: 1px solid white;
 }
@@ -22,23 +14,17 @@ header .img-fluid{
     width: 50%;
 }
 
-/* header section h1, i, span {
-    color: white;
-} */
-
 .background-c-green{
    background-color: rgb(26 188 156);
 }
 
 .bg-white{
     height: 0.3rem;
-    /* width: 5rem; */
     border-radius: 5px;
 }
 
 .bg-black{
     height: 0.3rem;
-    /* width: 5rem; */
     border-radius: 5px;
 }
 
