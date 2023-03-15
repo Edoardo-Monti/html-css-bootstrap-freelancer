@@ -29,10 +29,8 @@ header .img-fluid{
 }
 
 .form-control-lg{
-    border-radius: 1%;
-    border-top: none;
-    border-left: none;
-    border-right: none;
+    border-radius: 0;
+    border: 0;
     border-bottom: 1px solid grey;
 }
 
@@ -43,6 +41,7 @@ header .img-fluid{
 .rounded-circle{
     width: 50px;
     aspect-ratio: 1;
+    cursor: pointer;
 }
 
 li{
